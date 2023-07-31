@@ -1,0 +1,8 @@
+fastapi~=0.94.0
+uvicorn[standard]
+opencv-python~=4.8.0.74
+numpy
+python-dotenv
+cmake
+dlib
+face-recognition
